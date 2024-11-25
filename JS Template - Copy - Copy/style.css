@@ -1,0 +1,23 @@
+html {
+  background: green;
+}
+
+body {
+  width: 500px;
+  margin: 60px auto;
+  padding: 30px 75px;
+  border-radius: 25px;
+  background-color: white;
+  text-align: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+input {
+  width: 50px;
+}
+
+input1El {
+}
+
+avgOutEl {
+}
